@@ -9,5 +9,7 @@
 </h1>
 <br/>
 <a href="hello-servlet">Link do Hello Servlet</a>
+<br/>
+<a href="formularz.jsp">Link do formularza</a>
 </body>
 </html>
